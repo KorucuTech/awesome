@@ -6,4 +6,4 @@
 
 [Frappe Framework](https://frappeframework.com/) : Low code, open source, web framework in Python and Javascript for the 21st century.
 
-[Hurricane Electric DNS](https://dns.he.net) : Hurricane Electric **Free DNS** Hosting portal. Manage and maintain your forward and reverse DNS.
+[Hurricane Electric DNS](https://dns.he.net) : **Free DNS** Hosting. Manage forward and reverse DNS.
